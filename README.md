@@ -1,7 +1,8 @@
 # Innovision
 
 **Idea Proposed:**
-**VoteHub: Empowering Common People in Elections**
+
+VoteHub: Empowering Common People in Elections
 
 Abstract: VoteHub proposes an innovative election app to empower voters with comprehensive candidate information, easy polling location lookup, and accessible ballot details. Integrating AI functionalities and geolocation services, VoteHub enhances voter accessibility and engagement. Explore our project through the YouTube video and the participation certificate included.
 
